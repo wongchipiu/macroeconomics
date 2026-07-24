@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+_create_repos.py
+_check_repo.py
+_test_names.py
+_repo_body.json
+*.log
+.DS_Store
+Thumbs.db
